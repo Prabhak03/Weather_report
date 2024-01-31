@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-api-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-api-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-chrome-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-chrome-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-chromium-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-chromium-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v85-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v85-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v118-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v118-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v119-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v119-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v120-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-devtools-v120-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-edge-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-edge-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-firefox-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-firefox-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-http-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-http-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-ie-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-ie-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-java-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-java-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-json-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-json-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-manager-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-manager-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-os-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-os-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-remote-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-remote-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-safari-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-safari-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-support-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/selenium-support-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium latest java/selenium-java-4.16.1/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/java-client-9.0.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/java-client-7.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Desktop/json-20231013.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (1)/immutables-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (1)/textmatcher-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (1)/int-output-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (1)/json-functions-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (1)/json-simple-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (2)/easyjson-core-4.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (2)/simplejson-to-easyjson-4.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkatraman/Downloads/jar_files (2)/langx-java-5.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

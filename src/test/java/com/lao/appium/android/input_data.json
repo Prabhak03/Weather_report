@@ -1,0 +1,75 @@
+{
+  "inputSets": [
+    {
+      "temperatureValue": "31",
+      "dryTemperatureValue": "51",
+      "wetTemperatureValue": "91",
+      "luxValue": "61",
+      "parValue": "71"
+    },
+    {
+      "temperatureValue": "32",
+      "dryTemperatureValue": "72",
+      "wetTemperatureValue": "52",
+      "luxValue": "62",
+      "parValue": "72"
+    },
+    {
+      "temperatureValue": "33",
+      "dryTemperatureValue": "73",
+      "wetTemperatureValue": "53",
+      "luxValue": "63",
+      "parValue": "73"
+    },
+    {
+      "temperatureValue": "34",
+      "dryTemperatureValue": "74",
+      "wetTemperatureValue": "54",
+      "luxValue": "64",
+      "parValue": "74"
+    },
+    {
+      "temperatureValue": "35",
+      "dryTemperatureValue": "75",
+      "wetTemperatureValue": "55",
+      "luxValue": "65",
+      "parValue": "75"
+    },
+    {
+      "temperatureValue": " ",
+      "dryTemperatureValue": " ",
+      "wetTemperatureValue": " ",
+      "luxValue": "",
+      "parValue": " "
+    },
+    {
+      "temperatureValue": "35",
+      "dryTemperatureValue": "85",
+      "wetTemperatureValue": "65",
+      "luxValue": "85",
+      "parValue": "75"
+    },
+    {
+      "temperatureValue": "36",
+      "dryTemperatureValue": "90",
+      "wetTemperatureValue": "75",
+      "luxValue": "63",
+      "parValue": "100000000"
+    },
+    {
+      "temperatureValue": "39",
+      "dryTemperatureValue": "88",
+      "wetTemperatureValue": "50",
+      "luxValue": "69",
+      "parValue": "100000000"
+    },
+    {
+      "temperatureValue": "40",
+      "dryTemperatureValue": "89",
+      "wetTemperatureValue": "70",
+      "luxValue": "69",
+      "parValue": "100000000"
+    },
+    
+  ]
+}
